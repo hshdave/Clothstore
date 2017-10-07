@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clothstore</string>
+
+    <string-array name="size">
+        <item>XXL</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+</resources>
