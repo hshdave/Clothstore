@@ -64,7 +64,7 @@ public class ShirtContent extends AppCompatActivity {
                         bar.setAction("Cancel", new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-
+                                Toast.makeText(ShirtContent.this,"Trade Cancel",Toast.LENGTH_LONG).show();
                             }
                         });
                         bar.show();
